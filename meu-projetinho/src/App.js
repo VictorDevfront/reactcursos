@@ -42,7 +42,6 @@ const url = "https://via.placeholder.com/150"
     idade="28" 
     profissao="Programador"
     />
-    <List />
     </div>
   )
   }
